@@ -93,6 +93,12 @@ Deploy on cloud (AWS/GCP)
 Add multi-document support
 Improve UI/UX
 Integrate LangGraph multi-agent system
+
+You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.0.249:8501
+
+
 👨‍💻 Author
 
 Kamlesh Kumar
