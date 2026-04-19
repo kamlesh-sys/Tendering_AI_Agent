@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# AI models
+models/
+googl-flan-t5-base/
+
+# Large files (optional)
+*.pdf
+
+# VS Code
+.vscode/
